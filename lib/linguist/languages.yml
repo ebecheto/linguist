@@ -1013,6 +1013,7 @@ Common Lisp:
   - ".asd"
   - ".cl"
   - ".l"
+  - ".il"
   - ".lsp"
   - ".ny"
   - ".podsl"
